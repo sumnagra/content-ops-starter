@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: India's Best Official 1win site with 500% Welcome Bonus
     plans:
-      - title: Developers
+      - title: 500% Welcome Bonus
         price: Free
         details: No credit card required
         description: >-
