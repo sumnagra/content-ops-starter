@@ -7,7 +7,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: Click Get Started
+    subtitle: ''
     text: ''
     actions:
       - label: Get started
