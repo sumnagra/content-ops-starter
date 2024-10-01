@@ -12,7 +12,7 @@ sections:
     subtitle: India's Best Official 1win site with 500% Welcome Bonus
     plans:
       - title: 500% Welcome Bonus
-        price: Free
+        price: Get Your Bonus Now
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
