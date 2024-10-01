@@ -3,16 +3,16 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: Official 1win Site
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: India's Best Official 1win site with 500% Welcome Bonus
     plans:
-      - title: Developers
-        price: Free
+      - title: 500% Welcome Bonus
+        price: Get Your Bonus Now
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
@@ -23,12 +23,12 @@ sections:
           - Feature three
           - Feature four
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/1win new.jpeg
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: Try for free
-            url: /
+          - label: Register Now
+            url: 'https://winners.site.pro'
             icon: arrowRight
             iconPosition: right
             style: secondary
