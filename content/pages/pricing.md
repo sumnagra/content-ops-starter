@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: India's Best Official 1win site with 500% Welcome Bonus
+    subtitle: ''
     plans:
       - title: 500% Welcome Bonus
         price: Get Your Bonus Now
