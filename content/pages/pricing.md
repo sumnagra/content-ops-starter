@@ -28,7 +28,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Try for free
-            url: /
+            url: 'https://winners.site.pro'
             icon: arrowRight
             iconPosition: right
             style: secondary
