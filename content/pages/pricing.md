@@ -3,7 +3,7 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Official 1win Site
+      text: ''
       color: text-dark
       styles:
         self:
