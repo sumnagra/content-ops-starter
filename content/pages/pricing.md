@@ -3,13 +3,13 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Official 1win Site
+      text: ''
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: India's Best Official 1win site with 500% Welcome Bonus
+    subtitle: ''
     plans:
       - title: 500% Welcome Bonus
         price: Get Your Bonus Now
